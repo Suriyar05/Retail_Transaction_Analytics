@@ -1,0 +1,283 @@
+PS C:\Users\suriya.r\Documents\Capstone Project\Retail_Transaction_Analytics\
+notebooks> pip install pandas openpyxl
+
+PS C:\Users\suriya.r\Documents\
+Capstone Project\Retail_Transaction_Analytics> python .\run_etl.py 
+
+
+PS C:\Users\suriya.r\Documents\Capstone Project\Retail_Transaction_Analytics> pip install pyarrow
+
+PS C:\Users\suriya.r\Documents\Capstone Project\Retail_Transaction_Analytics> python .\run_etl.py
+
+PS C:\Users\suriya.r\Documents\Capstone Project\
+Retail_Transaction_Analytics> pip install mysql-connector-python
+
+PS C:\Users\suriya.r\Documents\Capstone Project\Retail_Transaction_Analytics> python src/etl/load_mysql.py
+
+Reading processed Parquet file...
+Records to load: 1055233
+Loaded 5000/1055233 records
+Loaded 10000/1055233 records
+Loaded 15000/1055233 records
+Loaded 20000/1055233 records
+Loaded 25000/1055233 records
+Loaded 30000/1055233 records
+Loaded 35000/1055233 records
+Loaded 40000/1055233 records
+Loaded 45000/1055233 records
+Loaded 50000/1055233 records
+Loaded 55000/1055233 records
+Loaded 60000/1055233 records
+Loaded 65000/1055233 records
+Loaded 70000/1055233 records
+Loaded 75000/1055233 records
+Loaded 80000/1055233 records
+Loaded 85000/1055233 records
+Loaded 90000/1055233 records
+Loaded 95000/1055233 records
+Loaded 100000/1055233 records
+Loaded 105000/1055233 records
+Loaded 110000/1055233 records
+Loaded 115000/1055233 records
+Loaded 120000/1055233 records
+Loaded 125000/1055233 records
+Loaded 130000/1055233 records
+Loaded 135000/1055233 records
+Loaded 140000/1055233 records
+Loaded 145000/1055233 records
+Loaded 150000/1055233 records
+Loaded 155000/1055233 records
+Loaded 160000/1055233 records
+Loaded 165000/1055233 records
+Loaded 170000/1055233 records
+Loaded 175000/1055233 records
+Loaded 180000/1055233 records
+Loaded 185000/1055233 records
+Loaded 190000/1055233 records
+Loaded 195000/1055233 records
+Loaded 200000/1055233 records
+Loaded 205000/1055233 records
+Loaded 210000/1055233 records
+Loaded 215000/1055233 records
+Loaded 220000/1055233 records
+Loaded 225000/1055233 records
+Loaded 230000/1055233 records
+Loaded 235000/1055233 records
+Loaded 240000/1055233 records
+Loaded 245000/1055233 records
+Loaded 250000/1055233 records
+Loaded 255000/1055233 records
+Loaded 260000/1055233 records
+Loaded 265000/1055233 records
+Loaded 270000/1055233 records
+Loaded 275000/1055233 records
+Loaded 280000/1055233 records
+Loaded 285000/1055233 records
+Loaded 290000/1055233 records
+Loaded 295000/1055233 records
+Loaded 300000/1055233 records
+Loaded 305000/1055233 records
+Loaded 310000/1055233 records
+Loaded 315000/1055233 records
+Loaded 320000/1055233 records
+Loaded 325000/1055233 records
+Loaded 330000/1055233 records
+Loaded 335000/1055233 records
+Loaded 340000/1055233 records
+Loaded 345000/1055233 records
+Loaded 350000/1055233 records
+Loaded 355000/1055233 records
+Loaded 360000/1055233 records
+Loaded 365000/1055233 records
+Loaded 370000/1055233 records
+Loaded 375000/1055233 records
+Loaded 380000/1055233 records
+Loaded 385000/1055233 records
+Loaded 390000/1055233 records
+Loaded 395000/1055233 records
+Loaded 400000/1055233 records
+Loaded 405000/1055233 records
+Loaded 410000/1055233 records
+Loaded 415000/1055233 records
+Loaded 420000/1055233 records
+Loaded 425000/1055233 records
+Loaded 430000/1055233 records
+Loaded 435000/1055233 records
+Loaded 440000/1055233 records
+Loaded 445000/1055233 records
+Loaded 450000/1055233 records
+Loaded 455000/1055233 records
+Loaded 460000/1055233 records
+Loaded 465000/1055233 records
+Loaded 470000/1055233 records
+Loaded 475000/1055233 records
+Loaded 480000/1055233 records
+Loaded 485000/1055233 records
+Loaded 490000/1055233 records
+Loaded 495000/1055233 records
+Loaded 500000/1055233 records
+Loaded 505000/1055233 records
+Loaded 510000/1055233 records
+Loaded 515000/1055233 records
+Loaded 520000/1055233 records
+Loaded 525000/1055233 records
+Loaded 530000/1055233 records
+Loaded 535000/1055233 records
+Loaded 540000/1055233 records
+Loaded 545000/1055233 records
+Loaded 550000/1055233 records
+Loaded 555000/1055233 records
+Loaded 560000/1055233 records
+Loaded 565000/1055233 records
+Loaded 570000/1055233 records
+Loaded 575000/1055233 records
+Loaded 580000/1055233 records
+Loaded 585000/1055233 records
+Loaded 590000/1055233 records
+Loaded 595000/1055233 records
+Loaded 600000/1055233 records
+Loaded 605000/1055233 records
+Loaded 610000/1055233 records
+Loaded 615000/1055233 records
+Loaded 620000/1055233 records
+Loaded 625000/1055233 records
+Loaded 630000/1055233 records
+Loaded 635000/1055233 records
+Loaded 640000/1055233 records
+Loaded 645000/1055233 records
+Loaded 650000/1055233 records
+Loaded 655000/1055233 records
+Loaded 660000/1055233 records
+Loaded 665000/1055233 records
+Loaded 670000/1055233 records
+Loaded 675000/1055233 records
+Loaded 680000/1055233 records
+Loaded 685000/1055233 records
+Loaded 690000/1055233 records
+Loaded 695000/1055233 records
+Loaded 700000/1055233 records
+Loaded 705000/1055233 records
+Loaded 710000/1055233 records
+Loaded 715000/1055233 records
+Loaded 720000/1055233 records
+Loaded 725000/1055233 records
+Loaded 730000/1055233 records
+Loaded 735000/1055233 records
+Loaded 740000/1055233 records
+Loaded 745000/1055233 records
+Loaded 750000/1055233 records
+Loaded 755000/1055233 records
+Loaded 760000/1055233 records
+Loaded 765000/1055233 records
+Loaded 770000/1055233 records
+Loaded 775000/1055233 records
+Loaded 780000/1055233 records
+Loaded 785000/1055233 records
+Loaded 790000/1055233 records
+Loaded 795000/1055233 records
+Loaded 800000/1055233 records
+Loaded 805000/1055233 records
+Loaded 810000/1055233 records
+Loaded 815000/1055233 records
+Loaded 820000/1055233 records
+Loaded 825000/1055233 records
+Loaded 830000/1055233 records
+Loaded 835000/1055233 records
+Loaded 840000/1055233 records
+Loaded 845000/1055233 records
+Loaded 850000/1055233 records
+Loaded 855000/1055233 records
+Loaded 860000/1055233 records
+Loaded 865000/1055233 records
+Loaded 870000/1055233 records
+Loaded 875000/1055233 records
+Loaded 880000/1055233 records
+Loaded 885000/1055233 records
+Loaded 890000/1055233 records
+Loaded 895000/1055233 records
+Loaded 900000/1055233 records
+Loaded 905000/1055233 records
+Loaded 910000/1055233 records
+Loaded 915000/1055233 records
+Loaded 920000/1055233 records
+Loaded 925000/1055233 records
+Loaded 930000/1055233 records
+Loaded 935000/1055233 records
+Loaded 940000/1055233 records
+Loaded 945000/1055233 records
+Loaded 950000/1055233 records
+Loaded 955000/1055233 records
+Loaded 960000/1055233 records
+Loaded 965000/1055233 records
+Loaded 970000/1055233 records
+Loaded 975000/1055233 records
+Loaded 980000/1055233 records
+Loaded 985000/1055233 records
+Loaded 990000/1055233 records
+Loaded 995000/1055233 records
+Loaded 1000000/1055233 records
+Loaded 1005000/1055233 records
+Loaded 1010000/1055233 records
+Loaded 1015000/1055233 records
+Loaded 1020000/1055233 records
+Loaded 1025000/1055233 records
+Loaded 1030000/1055233 records
+Loaded 1035000/1055233 records
+Loaded 1040000/1055233 records
+Loaded 1045000/1055233 records
+Loaded 1050000/1055233 records
+Loaded 1055000/1055233 records
+Loaded 1055233/1055233 records
+
+Data loading completed successfully.
+PS C:\Users\suriya.r\Documents\Capstone Project\Retail_Transaction_Analytics> PS C:\Users\suriya.r\Documents\Capstone Project\Retail_Transaction_Analytics> python .\run_etl.py 
+
+in the project root ->
+
+Retail_Transaction_Analytics>
+
+uvicorn src.api.main:app --reload
+
+
+python -m src.etl.backfill_hashes
+
+
+Step 7 — Test with a genuinely new file later
+When you receive a new transaction file with the same structure:
+data/raw/new_transactions.xlsx
+
+you simply run:
+run_incremental_etl(    "data/raw/new_transactions.xlsx")
+
+
+For example, if the new file contains:
+10,000 records
+
+and:
+8,000 already exist
+2,000 are new
+
+the pipeline should report:
+Extracted records: 10000
+...
+New records to insert: 2000
+Inserted records: 2000
+
+The database then becomes:
+1,057,233
+
+instead of reloading everything.
+
+Extracted records: 1067371
+Validation completed.
+Transformation completed.
+Duplicate records in input: 12133
+Records after cleaning: 1055233
+Unique records in incoming file: 1055233
+Existing database records: 1055233
+New records to insert: 0
+Inserted records: 0
+Incremental ETL completed.
+
+commend for create user ,use in powershell
+python -m src.api.create_user

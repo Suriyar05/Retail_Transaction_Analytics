@@ -1,0 +1,8 @@
+pandas
+openpyxl
+fastapi
+sqlalchemy
+pymysql
+PyJWT>=2.8,<3
+pwdlib[argon2]>=0.2
+python-dotenv>=1.0
